@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+
+    <modules>
+        <Doting_KeyVal>
+            <version>1.0</version>
+        </Doting_KeyVal>
+    </modules>
+
+    <global>
+        <models>
+            <keyval>
+                <class>Doting_KeyVal_Model</class>
+            </keyval>
+        </models>
+    </global>
+
+</config>
